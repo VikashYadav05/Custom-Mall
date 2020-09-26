@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036356040988",
+    "firebase_url": "https://custommall.firebaseio.com",
+    "project_id": "custommall",
+    "storage_bucket": "custommall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036356040988:android:b28e52ac3e87160190a2d9",
+        "android_client_info": {
+          "package_name": "com.vk.custommall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036356040988-lqveg51v9ea22jt134otf2esls5nupot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vk.custommall",
+            "certificate_hash": "c1f0bc57dc24748cd2ce621407c8cfa814185f6e"
+          }
+        },
+        {
+          "client_id": "1036356040988-jccvaa2o792o17aqm7pitte20k640mav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmIN-0tZNn4fJ75qwLenxAeuO5nju6mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036356040988-jccvaa2o792o17aqm7pitte20k640mav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
